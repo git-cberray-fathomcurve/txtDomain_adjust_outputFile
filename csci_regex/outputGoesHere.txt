@@ -1,0 +1,7 @@
+WhiteList Domains 
+chuck@domain.net
+daryl@gmail.com
+*@terrain.com
+*@listing.gov
+123.45.678
+
